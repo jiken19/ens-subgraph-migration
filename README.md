@@ -37,3 +37,5 @@ The code should be well documented. The judges will access:
 
 - [https://docs.subsquid.io/deploy-squid/quickstart/](Quickstart)
 - [TheGraph Migration guide](https://docs.subsquid.io/migrate/migrate-subgraph/)
+- schema.graphql
+- 
